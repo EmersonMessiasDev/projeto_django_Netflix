@@ -1,0 +1,22 @@
+PLANEJAMENTO 
+
+- Homepage
+- Fazer login / Criar conta (Usuario e Autenticação)
+    - Email
+    - Username
+    - Senha
+    - Filmes já vistos
+    - Editar perfil
+
+-Filmes / Series
+
+    - Thumb
+    - Titulo
+    - Descrição
+    - Categoria
+        - Epsodios
+        - videos 
+        - Titulo
+
+- Barra de Pesquisa
+    

@@ -1,0 +1,33 @@
+PRINCIPAL
+
+wsgi > gerencia seu codigo
+
+
+Urls > gerencia/define os links do seu site
+
+
+Settings > Ele que diz onde o Django localiza as regras e configurações gerais do programa
+
+APP
+
+APP > funcionalidade que sua aplicação terá
+    Criar sempre com nome no singular
+
+    Models > Armazena informações cria o banco de dados
+
+
+DJANGO ADMIN
+
+python3 manage.py createsuperuser
+    nome
+    email
+    senha
+
+
+COMANDOS
+    1º python3 manage.py makemigrations > 
+
+    2º python3 manage.py migrate  > atualiza banco de dados
+
+listar comandos:
+    djangoproject django-admin
