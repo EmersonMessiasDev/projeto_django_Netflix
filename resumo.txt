@@ -6,7 +6,12 @@ wsgi > gerencia seu codigo
 Urls > gerencia/define os links do seu site
 
 
-Settings > Ele que diz onde o Django localiza as regras e configurações gerais do programa
+SETTINGS 
+    > Ele que diz onde o Django localiza as regras e configurações gerais do programa
+
+    BASE_DIR > onde se encontra seu projeto
+
+    DEBUG > atualiza automaticamente  as mudanças que for feita no codigo
 
 APP
 
